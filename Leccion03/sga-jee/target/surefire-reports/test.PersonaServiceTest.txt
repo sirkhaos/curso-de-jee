@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: test.PersonaServiceTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 305.491 sec <<< FAILURE!
-testEJBPersonaService(test.PersonaServiceTest)  Time elapsed: 305.366 sec  <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 190.491 sec <<< FAILURE!
+testEJBPersonaService(test.PersonaServiceTest)  Time elapsed: 190.32 sec  <<< ERROR!
 javax.ejb.EJBException
 	at com.sun.ejb.containers.EJBContainerTransactionManager.processSystemException(EJBContainerTransactionManager.java:752)
 	at com.sun.ejb.containers.EJBContainerTransactionManager.completeNewTx(EJBContainerTransactionManager.java:702)
