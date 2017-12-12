@@ -1,0 +1,8 @@
+#surefire
+#Mon Dec 11 23:06:36 CLST 2017
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar;C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=E\:\\NetBeansProjects\\cursoJavaEE\\Leccion03\\sga-jee
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Tata\\.m2\\repository
+basedir=E\:\\NetBeansProjects\\cursoJavaEE\\Leccion03\\sga-jee
+test=test.PersonaServiceTest

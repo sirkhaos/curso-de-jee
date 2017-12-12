@@ -17,9 +17,10 @@ import mx.com.gm.sga.domain.Persona;
  */
 @Stateless
 public class PersonaDaoImpl implements PersonaDao {
-    @PersistenceContext(unitName="PersonaPU")
+
+    @PersistenceContext(unitName = "PersonaPU")
     EntityManager em;
-    
+
     @Override
     public List<Persona> findAllPersonas() {
         return em.createNamedQuery("Persona.findAll").getResultList();
